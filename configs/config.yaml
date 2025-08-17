@@ -1,0 +1,10 @@
+server:
+  port: ":8080"
+database:
+  host: "14.136.93.45"
+  port: "5432"
+  user: "yorenz"
+  password: "yorenz054532"
+  dbname: "link_nest"
+  sslmode: "disable"
+
